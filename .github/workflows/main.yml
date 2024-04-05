@@ -6,7 +6,7 @@ on:
     branches: [ main ]
 
 env:
-  ECR_REPOSITORY: workflows
+  ECR_REPOSITORY: workflow
   AWS_REGION: us-east-1
 
 jobs:
